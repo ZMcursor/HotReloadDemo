@@ -1,0 +1,6 @@
+*/.*
+.vscode
+*/target
+test
+/scheduler/apps/*
+/build.sh
